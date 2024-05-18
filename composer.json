@@ -1,0 +1,13 @@
+{
+    "name": "aorusx/iwx-api-client",
+    "description": "A PHP client library for IWX API",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IwxApi\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
